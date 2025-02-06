@@ -28,8 +28,8 @@ export const styles = StyleSheet.create({
         backgroundColor: "green",
         padding: 12,
         marginVertical: 10,
-        width: "60%",
-        borderRadius: "50%",
+        width: "40%",
+        borderRadius: "5",
         elevation: 1,
     },
     loginbuttonText: {
